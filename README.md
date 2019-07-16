@@ -1,5 +1,8 @@
 # Classic Arcade Game Clone Project
 
+[Live Preview](https://samiee.github.io/Arcade-Game/)
+
+
 ## Table of Contents
 
 - [Instructions](#instructions)
